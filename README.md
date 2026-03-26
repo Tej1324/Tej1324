@@ -35,36 +35,11 @@
 <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=blackmagicdesign&logoColor=white"/>
 </p>
 
-## 🔧 Electronics & Hardware
-
-* Oscilloscope
-* Function Generator
-* LTSpice
-* Circuit Design
-* Signal Processing
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tej1324&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 # 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tej1324&theme=tokyo-night"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tej1324&theme=tokyonight"/>
 </p>
 
 ---
@@ -92,11 +67,11 @@
 # 🌐 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/teja-kodiyala-50332126b/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:tejakodiyala01@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -117,14 +92,3 @@ Currently working on:
 * IoT Projects
 * Full Stack Applications
 
----
-
-# 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=Tej1324&color=blue"/>
-
----
-
-# ⚡ Fun Fact
-
-I build Industrial Dashboards & edit cinematic videos 🚀
