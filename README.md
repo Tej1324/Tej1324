@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Teja%20Kodiyala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Agent%20Builder%20%7C%20Full%20Stack%20Dev&descAlignY=55&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🤖+Building+AI+Agents+%26+RAG+Pipelines;🎙️+Voice+AI+%7C+LLMs+%7C+Embeddings;🌐+Full+Stack+%7C+IoT+%7C+Edge+Computing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=🤖+Building+AI+Agents+%26+RAG+Pipelines;🎙️+Voice+AI+%7C+LLMs+%7C+Embeddings;🌐+Full+Stack+%7C+IoT+%7C+Edge+Computing)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/teja-kodiyala-50332126b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:tejakodiyala01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Tej1324"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Tej1324&style=for-the-badge&color=6C63FF"/>
+
 </p>
 
 </div>
