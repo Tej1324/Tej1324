@@ -135,30 +135,6 @@ Core Member — IET On Campus
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tej1324&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tej1324&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tej1324&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="500"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tej1324&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tej1324&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
----
 
 <div align="center">
 
